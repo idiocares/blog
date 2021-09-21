@@ -8,6 +8,7 @@ esto es un remmplazo al archivo
 
 "esto es un mensaje del 2 de septiembre 2021 para probar git github en linux con otro usuario"
 "master 1 ejemplo para rebase"
+"master 2 como ejemplo rebase"
 
 "esto es un mensaje del 15 de septiembre se usa midiocares como colaborador aparte del proyecto blog como si fuera un proyecto open source
 "
